@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "765188890542",
+    "project_id": "examn8",
+    "storage_bucket": "examn8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765188890542:android:ff5aa7b71546ad5a82723f",
+        "android_client_info": {
+          "package_name": "com.coffee.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765188890542-329u7ni52co9du1tpka71asmpbsndln1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4LIyyd--qFoWrfZsXR4WhXlij_YbPhsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765188890542-329u7ni52co9du1tpka71asmpbsndln1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765188890542:android:208a015337e0f55f82723f",
+        "android_client_info": {
+          "package_name": "uz.bloc.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765188890542-329u7ni52co9du1tpka71asmpbsndln1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4LIyyd--qFoWrfZsXR4WhXlij_YbPhsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765188890542-329u7ni52co9du1tpka71asmpbsndln1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
